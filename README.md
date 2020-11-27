@@ -9,15 +9,15 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-dotnet 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[Scrapy：Python的爬虫框架](http://hao.jobbole.com/python-scrapy/)》
-  - 《[Flask：一个使用Python编写的轻量级Web应用框架](http://hao.jobbole.com/flask/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+  - 《[Scrapy：Python的爬虫框架](http://hao.importnew.com/python-scrapy/)》
+  - 《[Flask：一个使用Python编写的轻量级Web应用框架](http://hao.importnew.com/flask/)》
 
 * * *
 
 ### 如何参与本项目？
 
-从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
+<!-- 从下面的目录来看，本项目的工作量小不了，所以非常期待能有更多程序员一起来参与。
 
 不过加入前，有几个小要求：
 
@@ -25,7 +25,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 * 在用 DotNet；
 
 如有兴趣，请加 QQ：50872495。加 Q 时请注明「DotNet大全」
-
+ -->
 * * *
 
 ### 如何为列表贡献新资源？
@@ -44,17 +44,17 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：
-- 贡献者：[Erucy](http://www.jobbole.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、[tangxuehua](https://github.com/tangxuehua/)、[KingNight67](https://github.com/KingNight67)、你
+- 贡献者：[Erucy](http://www.importnew.com/members/Erucy)、[heavenwing](https://github.com/heavenwing)、[Podolski](https://github.com/circler3)、[JRoger](https://github.com/Oger-Me)、[cuibty](https://github.com/cuibty)、[tangxuehua](https://github.com/tangxuehua/)、[KingNight67](https://github.com/KingNight67)、[xiaotupansy](https://github.com/xiaotupansy)、你
 
 注：名单不分排名，不定期补充更新
 
-### 奖励计划
+<!-- ### 奖励计划
 
 虽然奖励可能并不是你加入的主要原因，但还是有必要提一下：
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
+* [奖励详情](http://hao.importnew.com/rewards/) -->
 
 * * *
 
@@ -273,7 +273,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   LibGit2Sharp：LibGit2Sharp 带来了 libgit2 所有的功能和速度，是一个本地 Git 实现，可以运行在 .Net 和 Mono 平台。[官网](https://github.com/libgit2/libgit2sharp)
 *   NGit：NGit 是 JGit 移植到 C# 的版本。[官网](https://github.com/mono/ngit)
 *   posh-git：Git 的 PowerShell 环境。[官网](https://github.com/dahlbyk/posh-git)
-
+*   GitCandy：GitCandy是一个 web 应用程序，可以安装在你自己的 IIS 上，用于管理和连接你的 git 仓库。[Github](https://github.com/Aimeast/GitCandy)
+    
 ## 图形（Graphics）
 
 *   Oxyplot：OxyPlot 是一个 .NET 跨平台绘图库。[官网](https://github.com/oxyplot/)
@@ -404,7 +405,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## 度量（Metrics）
 
-*   C# StatsD Client：Etsy StatsD 服务器的 C# 客户端。[官网](https://github.com/goncalopereira/statsd-csharp-client)
+*   C# StatsD Client：Etsy StatsD 服务器的 C# 客户端。[官网](https://github.com/goncalopereira/statsd-csharp-client)
+*   App Metrics：开源跨平台 .NET 报表度量开发库。[官网](https://app-metrics.io/)、[GitHub](https://github.com/AppMetrics/AppMetrics)
 
 ## 微框架（Micro Framework）
 
@@ -422,12 +424,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   LINQPad：一个 C#/VB/F# 的便签本，能够立即执行任何表达式、语句块或程序，带有富文本显示等有用的特性。同样可以让你使用 LINQ 进行交互性数据库查询。 [$]（译者注：也有免费许可，但是功能受限）。[官网](http://www.linqpad.net)
 *   Polly：快捷便利的异常处理策略，例如 重试、始终重试、等待并重试或断路（Circuit Break）等行为。 （.NET 3.5、4.0、4.5、PCL、Xamarin）[官网](https://github.com/michael-wolfenden/Polly)
 *   Rant：Rant 程序文本生成 DSL（领域特定语言）。 [官网](http://berkin.me/rant) [Github](https://github.com/TheBerkin/Rant)
-*   ScriptCS：使用文本编辑器、nuget 和强大的 Roslyn 来编写 C# 应用！[官网](https://github.com/scriptcs/scriptcs)
+*   ScriptCS：使用文本编辑器、nuget 和强大的 Roslyn 来编写 C# 应用！[官网](https://github.com/scriptcs/scriptcs)
+*   EntityFramework-Plus：Entity Framework 扩展，提供工具类、Bulk 操作、批处理/批量更新、查询缓存/过滤器/Future、审计等功能。[官网](http://entityframework-plus.net/)、[GitHub](https://github.com/zzzprojects/EntityFramework-Plus)
 
 ## MVVM
 
 *   Caliburn.Micro：小型但功能强大的框架，可以用来给所有 XAML 平台创建应用。它对 MV* 模式的强大支持可以让你快速构建你的解决方案，与此同时不必牺牲代码质量和可测试能力。[官网](https://github.com/Caliburn-Micro/Caliburn.Micro) 
-*   [MVVM Light Toolkit](http://hao.jobbole.com/mvvm-light-toolkit/)：该工具箱主要是用来加速创建和开发 MVVM 应用，适用于 WPF、Silverlight、Windows Store（RT）和 Windows Phone 平台。[官网](https://mvvmlight.codeplex.com/)
+*   [MVVM Light Toolkit](http://hao.importnew.com/mvvm-light-toolkit/)：该工具箱主要是用来加速创建和开发 MVVM 应用，适用于 WPF、Silverlight、Windows Store（RT）和 Windows Phone 平台。[官网](https://mvvmlight.codeplex.com/)
 *   Catel：Catel 是一个应用开发平台，主要着眼在 MVVM（WPF、Silverlight、Windows Phone 及 WinRT）以及 MVC（ASP.NET MVC）。Catel 的核心部分包含 IoC 容器、模型、校验、备忘录模式（memento）、消息中介（message mediator）、参数检查等。[官网](https://catel.codeplex.com/)
 *   UpdateControls：Update Controls 不需要你实现 INotifyPropertyChanged 接口或声明一个 DependencyProperty。可以将控件直接关联到 CLR 属性，这使得它完美贴合 MVVM 模式。[官网](http://updatecontrols.net/cs/)
 *   ReactiveUI：一个 .NET 下的 MVVM 框架，集成了反应性扩展框架（Rx），允许开发者使用 WPF、Windows Store Apps、WP8 或 Xamarin 创建优雅的、可测试的应用。[官网](https://github.com/reactiveui/reactiveui/)
@@ -440,8 +443,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## Office
 
 *   ClosedXML：ClosedXML 能够让开发人员更便捷地创建 Excel 2007、2010 文件。[官网](https://closedxml.codeplex.com/)
-*   [NPOI](http://hao.jobbole.com/npoi/)：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
-*   [EPPlus](http://hao.jobbole.com/epplus/)：EPPlus 是一个 .net 类库，用于读写 Open Office Xml 格式的 Excel 2007、2010 文件（xlsx）。[官网](http://epplus.codeplex.com/)
+*   [NPOI](http://hao.importnew.com/npoi/)：该项目是 .NET 版本的 POI 项目，原始的 Java 版本位于[http://poi.apache.org/](http://poi.apache.org/) 。[官网](http://npoi.codeplex.com/)
+*   [EPPlus](http://hao.importnew.com/epplus/)：EPPlus 是一个 .net 类库，用于读写 Open Office Xml 格式的 Excel 2007、2010 文件（xlsx）。[官网](http://epplus.codeplex.com/)
 *   Open XML SDK：Open XML SDK 是一个开源库，用于处理 Open XML 文档（包括 DOCX、XLSX 和 PPTX）。[官网](https://github.com/officedev/open-xml-sdk)
 
 ## ORM
@@ -456,7 +459,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ServiceStack.OrmLite：轻量、简单、快速、基于命名约定的 POCO ORM。[官网](https://github.com/ServiceStack/ServiceStack.OrmLite)
 *   Massive：小型、令人愉悦的数据访问工具，始终关爱你直到永远。[官网](https://github.com/robconery/massive)
 *   LINQ to DB：最快的 LINQ 数据库访问库，简单、轻量、快速、类型安全，在你的对象（POCO）和数据库之间搭建桥梁。[官网](https://github.com/linq2db/linq2db)
-
+*   SqlSugar：NET 4.+ & .NET CORE 高性能 轻量级 ORM框架，众多.NET框架中最容易使用的数据库访问技术。[官网](http://www.codeisbug.com) [github](https://github.com/sunkaixuan/SqlSugar)
 ## 包管理（Package Management）
 
 *   NuGet：.NET 包管理器。[官网](https://www.nuget.org/)
@@ -480,11 +483,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   NServiceBus：.NET 平台下最流行的服务总线。[官网](https://github.com/Particular/NServiceBus)
 *   RabbitMQ.NET：AMQP 客户端的 C# 实现，通过 WCF 绑定到已有的 AMQP 服务。[官网](http://hg.rabbitmq.com/rabbitmq-dotnet-client/)
-*   [NetMQ](http://hao.jobbole.com/netmq/)：NetMQ 是 ZeroMQ 纯 C# 移植版本。[官网](https://github.com/zeromq/netmq)
+*   [NetMQ](http://hao.importnew.com/netmq/)：NetMQ 是 ZeroMQ 纯 C# 移植版本。[官网](https://github.com/zeromq/netmq)
 *   MassTransit：MassTransit 是一个精简服务总线（lean service bus）的实现，使用 .NET Framework 来构建松耦合应用程序。[官网](https://github.com/MassTransit/MassTransit)
 *   Rebus：Rebus 是一个 .NET 平台的精简服务总线和 NServiceBus、MassTransit类似，只不过更加精简。[官网](https://github.com/rebus-org/Rebus)
 *   EasyNetQ：易于使用的 RabbitMQ .NET API。[官网](https://github.com/mikehadlow/EasyNetQ)
 *   Warewolf ESB：易于使用的服务总线和微服务平台，可以在一个可视化 IDE 中便捷的创建应用和服务。[官网](https://github.com/Warewolf-ESB/Warewolf-ESB)
+*   CAP：用于处理分布式事务的 .Net 标准开发库。支持 EventBus，轻量级、高效且易于使用。[官网](https://github.com/dotnetcore/CAP)
 
 ## 响应式编程（Reactive Programming）
 
@@ -493,7 +497,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## 计划调度（Scheduling）
 
-*   [QuartzNet](http://hao.jobbole.com/quartz-net/)：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
+*   [QuartzNet](http://hao.importnew.com/quartz-net/)：Quartz 是 .NET 平台的企业级调度器。[官网](https://github.com/quartznet/quartznet)
 *   Hangfire：在 ASP.NET 应用中，超简单地实现自主引导（fire-and-forget）、延迟和周期重复任务。高级版需要收费。[官网](https://github.com/HangfireIO/Hangfire)
 *   Hangfire.Redis.StackExchange：Hangfire的redis扩展库，基于StackExchange.Redis的开源实现。[官网](https://github.com/marcoCasamento/Hangfire.Redis.StackExchange)
 *   Azure WebJobs：Azure WebJobs 是Azure中App Services一个附属服务，为Azure中运行的Web App提供后台运行环境（支持多种语言编写Job），有.NET的SDK[开源](https://github.com/Azure/azure-webjobs-sdk)，并且可以直接添加扩展[也开源](https://github.com/Azure/azure-webjobs-sdk-extensions)。[官网](https://azure.microsoft.com/en-us/documentation/articles/app-service-webjobs-readme/)
@@ -515,7 +519,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ## 序列化（Serialization）
 
 *   Protobuf.NET：Protocol buffers 是 Google 使用的二进制序列化格式，在 Google 数据通讯中大量使用。[官网](https://github.com/mgravell/protobuf-net)
-*   [Json.NET](http://hao.jobbole.com/json-net/)：.NET 平台下流行的、高性能 JSON 框架。[官网](https://github.com/JamesNK/Newtonsoft.Json)
+*   [Json.NET](http://hao.importnew.com/json-net/)：.NET 平台下流行的、高性能 JSON 框架。[官网](https://github.com/JamesNK/Newtonsoft.Json)
 *   ServiceStack.Text：在 servicestack.net 中使用的 JSON、JSV、CSV 文本序列化器。[官网](https://github.com/ServiceStack/ServiceStack.Text)
 *   Msgpack-Cli：MessagePack 的 CLI 实现。[官网](https://github.com/msgpack/msgpack-cli)
 *   Jil：.NET 平台下快速的 JSON 序列化器，基于 Sigil （在 StackOverflow 中使用）。[官网](https://github.com/kevin-montrose/Jil)
@@ -559,7 +563,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Rhino Mocks：.NET 平台的动态 Mocking 框架。[官网](https://github.com/ayende/rhino-mocks)
 *   Shouldly：Shouldly 是一个断言（assertion）框架，主要功能是在断言失败时，给出简单明了并且友好的错误信息。[官网](https://github.com/shouldly/shouldly)
 *   SpecFlow：将业务需求绑定到 .Net 代码。[官网](https://github.com/techtalk/SpecFlow/)
-*   xUnit：xUnit.net 是一个 .NET 平台下免费、开源、专注社区的单元测试框架。[官网](https://github.com/xunit/xunit)
+*   xUnit：xUnit.net 是一个 .NET 平台下免费、开源、专注社区的单元测试框架。[官网](https://github.com/xunit/xunit)
+*   BenchmarkDotNet：功能强大的基础测试 .NET 开发库。[官网](http://benchmarkdotnet.org/)、[GitHub](https://github.com/dotnet/BenchmarkDotNet)
 
 ## 交易（Trading）
 
@@ -594,12 +599,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ## WebSocket
 
-*   [SignalR](http://hao.jobbole.com/signalr/)：ASP.NET 库，开发者可以通过它在 web 应用程序中非常简单地实现实时功能。[官网](https://github.com/SignalR/SignalR)
+*   [SignalR](http://hao.importnew.com/signalr/)：ASP.NET 库，开发者可以通过它在 web 应用程序中非常简单地实现实时功能。[官网](https://github.com/SignalR/SignalR)
 *   Fleck：Fleck 是一个 C# 实现的 WebSocket 服务器。分支自 Nugget 项目。[官网](https://github.com/statianzo/Fleck)
 *   Websocket-Sharp：WebSocket 协议的 C# 实现，包含客户端和服务器端。[官网](https://github.com/sta/websocket-sharp)
 *   XSockets：提供了一组工具，可以在微软 .NET 等平台上构建一个实时应用程序。[官网](http://xsockets.net/)
 *   WebSocket4NET：.NET 2.0+、Xamarin、Mono、Silverlight、Windows Phone 以及 WinRT 下的 WebSocket 客户端。[官网](https://websocket4net.codeplex.com)
-*   [SuperSocket](http://hao.jobbole.com/supersocket/)：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。[官网](http://www.supersocket.net/)
+*   [SuperSocket](http://hao.importnew.com/supersocket/)：一个轻量级, 跨平台而且可扩展的 .Net/Mono Socket 服务器程序框架。[官网](http://www.supersocket.net/)
 
 ## Windows 服务（Windows Services）
 
@@ -625,7 +630,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h4>英文站点</h4>
 
-待补充
+*   channel9：第9频道是一个微软的社区网站，诞生于2004年4月1日。 [官网](https://channel9.msdn.com/)
+*   .NET Blog：一个专门用于 .Net 技术交流的博客网站。 [官网](https://blogs.msdn.microsoft.com/dotnet/)
 
 <h3 id="weibo-weixin">微信公众号</h3>
 * 「DotNet」：专注 .NET 相关内容，包括：.NET 和 C# 开发心得、工具资源和相关动态。
